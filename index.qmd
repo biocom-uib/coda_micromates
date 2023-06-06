@@ -4,7 +4,7 @@
 
 \- Cada muestra consiste en proporciones de varios microrganismos con una suma limitada a una constante. Esta simple característica hace que \<font color="blue"\> los tratamientos estadísticos tradicionales lleven a resultados erróneos y correlaciones espurias\</font\>.
 
-\### Objetivos del seminario 🎯
+## Objetivos del seminario 🎯
 
 \*i.- Discutiremos los \`orígenes\` de la composicionalidad en los datos del microbioma.\*
 

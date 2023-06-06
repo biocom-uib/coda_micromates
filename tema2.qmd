@@ -1,4 +1,4 @@
-# 1. Los datos de secuenciación son composicionales 🤯
+# Los datos de secuenciación son composicionales 🤯
 
 ![](images/frontiers.PNG)
 
@@ -40,7 +40,7 @@ Observa que las muestras 2 y 3 tienen las mismas abundancias proporcionales, aun
 
 En la tabla podemos observar que la relación entre la abundancia absoluta y la abundancia relativa cambia de manera significativa.
 
-## 2. Problemas que surgen cuando no se utiliza el paradigma composicional 😵
+##  Problemas que surgen cuando no se utiliza el paradigma composicional 😵
 
 <br>
 

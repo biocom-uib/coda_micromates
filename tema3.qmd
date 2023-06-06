@@ -1,9 +1,6 @@
+# Principios básicos del CODA
 
-
-
-## 3. Principios básicos del CODA
-
-## 3. Reemplazos composicionales del `tool kit` tradicional 👀
+##  Reemplazos composicionales del `tool kit` tradicional 👀
 
 <br>
 <center>![](images/tecnicas_AD.PNG)</center>
