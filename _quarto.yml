@@ -10,9 +10,9 @@ book:
   
   chapters:
     - index.qmd
-    - Tema1.qmd
-    - Tema2.qmd
-    - Tema3.qmd
+    - tema1.qmd
+    - tema2.qmd
+    - tema3.qmd
 
 bibliography: references.bib
 
